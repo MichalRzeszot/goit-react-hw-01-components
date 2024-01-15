@@ -1,5 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import './friendslist.css';
 
 const FriendListItem = ({ avatar, name, isOnline }) => (
   <li className="item">

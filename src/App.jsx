@@ -13,7 +13,7 @@ function App() {
       <UserProfile {...user} />
       <Statistic stats={stat} title="Upload stats" />
       <FriendList friends={friends} />
-      <TransactionHistory item={transactions} />
+      <TransactionHistory items={transactions} />
     </div>
   );
 }
