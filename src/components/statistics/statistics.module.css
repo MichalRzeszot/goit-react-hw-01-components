@@ -8,13 +8,13 @@
   max-width: 600px;
 }
 
-.statistics .title {
+.title {
   font-size: 1.8rem;
   color: #333;
   margin-bottom: 20px;
 }
 
-.statistics .stat-list {
+.statList {
   list-style: none;
   padding: 0;
   margin: 0;
@@ -22,7 +22,7 @@
   justify-content: space-around;
 }
 
-.statistics .item {
+.item {
   background-color: #fff;
   padding: 10px 20px;
   border-radius: 5px;
@@ -33,13 +33,13 @@
   align-items: center;
 }
 
-.statistics .label {
+.label {
   font-size: 1rem;
   color: #666;
   margin-bottom: 5px;
 }
 
-.statistics .percentage {
+.percentage {
   font-size: 1.4rem;
   font-weight: 600;
   color: #4a4e69;
